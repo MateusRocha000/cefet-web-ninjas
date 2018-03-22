@@ -1,0 +1,62 @@
+a:link{
+	color: cornflowerblue;
+}
+
+a:visited{
+	color: purple;
+}
+
+a:hover{
+	color: green;
+}
+
+a:active{
+	color: white;
+}
+
+img.logotipo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img.globo{
+	background-repeat: no-repeat;
+	padding-left: 0px;
+}
+
+strong.num{
+	font-size: 30px;
+	background-color: yellow;
+	background-repeat: no-repeat;
+	background-size: 40px 40px;
+}
+
+em.passo{
+	font-size: 20px;
+}
+
+img.curiosidade{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#fosco{
+	filter: blur(1px);
+}
+
+iframe{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body{
+	color: red;
+	background-color: black;
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 15%;
+	margin-right: 15%;
+}
